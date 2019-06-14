@@ -10,5 +10,9 @@ Além da aba "Dados", o aplicativo conta também com uma tela de estatísticas c
 ![Tela de Estatísticas](Figuras/estatísticas.png)
 
 # Manual do Usuário
-### O E-multas foi desenvolvido para atender às necessidades dos usuários que trabalham no departamento de multas de trânsito por excesso de velocidade, pensando nisso o aplicativo apresenta uma interface bastante simples e gerando dados automaticamente, baseados na nova lei de trânsito 2019.
 
+O E-multas foi desenvolvido para atender às necessidades dos usuários que trabalham no departamento de multas de trânsito por excesso de velocidade, pensando nisso o aplicativo apresenta uma interface bastante simples e gerando dados automaticamente, baseados na Nova Lei de Trânsito 2019 (Lei 13.804/2019).
+
+### Como utilizar?
+
+Basta digitar a placa correspondente ao veículo, sua respectiva velocidade instantânea em km/h e definir um limite de velocidade predeterminado. Feito isso, agora é só clicar no botão "Inserir" para que todos os dados relativos ao veículos sejam exibidos.
