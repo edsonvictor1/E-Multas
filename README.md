@@ -3,4 +3,4 @@
 
 O E-Multas permite que o usuário forneça a placa, a velocidade instântanea do veículo no momento de detecção pelo radar e o limite de velocidade máxima permitido na rodovia.
 
-![Tela inicial](Figuras/telainicial.PNG)
+![Tela inicial](Figuras/telainicial.png)
