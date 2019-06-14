@@ -15,4 +15,16 @@ O E-multas foi desenvolvido para atender às necessidades dos usuários que trab
 
 ### Como utilizar?
 
-Basta digitar a placa correspondente ao veículo, sua respectiva velocidade instantânea em km/h e definir um limite de velocidade predeterminado. Feito isso, agora é só clicar no botão "Inserir" para que todos os dados relativos ao veículos sejam exibidos.
+Basta digitar a placa correspondente ao veículo, sua respectiva velocidade instantânea em km/h e definir um limite de velocidade predeterminado. 
+
+![Definindo um limite de velocidade](Figuras/definir_limite.png)
+
+Feito isso, agora é só clicar no botão "Inserir" para que todos os dados relativos ao veículos sejam exibidos.
+
+![Cadastrando veículo na tabela](Figuras/cadastro_veiculo.png)
+
+No exemplo acima, como o limite de velocidade definido foi de 100 km/h, a velocidade do veículo cadastrado ultrapassou o limite, portanto o aplicativo exibe os dados correspondentes a quanto a velocidade excedeu o limite permitido. Desse modo temos, a situação, o grau da infração, o valor da multa, a quantidade de perda de pontos na CNH e se a mesma foi suspensa ou não.
+
+### Como ordenar os veículos por placa e por velocidade?
+
+O aplicativo contém dois botões na parte debaixo de sua interface. Basta apenas clicar em uma das opções, "Ordenar por Placa" ou "Ordenar por Velocidade", que imediatamente o programa será exibir os veículos em ordem decrescente baseado no critério selecionado.
