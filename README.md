@@ -51,10 +51,9 @@ Após clicar duas vezes na célula da placa, aparecerá uma caixa de mensagem pe
 
 Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
 
-![Alterando a placa na tabela](Figuras/alterando_placa.png)
+![Alterando a placa na tabela](Figuras/alterar_placa.png)
 
-![Substituindo a placa na tabela](Figuras/alterar_placa.png)
-
+![Substituindo a placa na tabela](Figuras/alterando_placa.png)
 
 #### Velocidade
 
