@@ -49,7 +49,7 @@ Após clicar duas vezes na célula da placa, aparecerá uma caixa de mensagem pe
 
 ![Editando a placa na tabela](Figuras/editar_placa.png)
 
-Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
+Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá inserir a nova placa.
 
 ![Alterando a placa na tabela](Figuras/alterar_placa.png)
 
@@ -61,7 +61,7 @@ Após clicar duas vezes na célula da velocidade, aparecerá uma caixa de mensag
 
 ![Editando a velocidade na tabela](Figuras/editar_velocidade.png)
 
-Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
+Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá inserir a nova velocidade.
 
 ![Alterando a velocidade na tabela](Figuras/alterar_velocidade.png)
 
@@ -78,6 +78,7 @@ Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas ser
 ## Como posso salvar os veículos em um arquivo? E como carregar os veículos a partir de um arquivo já existente?
 
 Para salvar é preciso apenas dar um clique em "Arquivo", em seguida selecionar "Salvar", definir o nome do arquivo e pronto, agora todos os dados dos veículos estarão salvos!
+
 ![Salvando os dados](Figuras/salvar_dados.png)
 
 Para carregar é muito simples, basta clicar em "Arquivo" e selecionar a opção "Carregar" e todos os dados salvos aparecerão novamente na tabela.
