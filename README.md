@@ -69,7 +69,7 @@ Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poder
 
 ## Como excluo os dados da tabela?
 
-Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas serão apagadas.
+Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas serão apagadas. Na primeira imagem vemos uma tabela com linhas preenchidas, mas após o botão "Limpar Tabela" ser clicado, tabela volta a ficar vazia, como podemos observar na segunda imagem.
 
 ![Exemplo tabela preenchida](Figuras/limpar_tabela.png)
 
