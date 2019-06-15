@@ -35,7 +35,7 @@ O aplicativo contém dois botões na parte debaixo de sua interface. Basta apena
 
 ## Como vejo as estatísticas?
 
-Basta clicar na aba "Estatísticas" no canto superior esquerdo, ao lado da aba "Dados". O E-multas Statistics exibirá quantos veículos foram multados pelo radar e a soma total das multas.
+Basta clicar na aba "Estatísticas" no canto superior esquerdo, ao lado da aba "Dados". O E-multas Statistics exibirá quantos veículos foram multados pelo radar e a soma total das multas. Baseando-se na tabela da imagem anterior, temos as seguintes estatísticas:
 
 ![Exibindo o funcionamento das estatísticas](Figuras/emultas_statistics.png)
 
@@ -77,4 +77,9 @@ Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas ser
 
 ## Como posso salvar os veículos em um arquivo? E como carregar os veículos a partir de um arquivo já existente?
 
+Para salvar é preciso apenas dar um clique em "Arquivo", em seguida selecionar "Salvar", definir o nome do arquivo e pronto, agora todos os dados dos veículos estarão salvos!
+![Salvando os dados](Figuras/salvar_dados.png)
 
+Para carregar é muito simples, basta clicar em "Arquivo" e selecionar a opção "Carregar" e todos os dados salvos aparecerão novamente na tabela.
+
+![Carregando os dados](Figuras/carregar_dados.png)
