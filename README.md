@@ -67,6 +67,14 @@ Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poder
 
 ![Substituindo a velocidade na tabela](Figuras/alterando_velocidade.png)
 
+## Como excluo os dados da tabela?
+
+Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas serão apagadas.
+
+![Exemplo tabela preenchida](Figuras/limpando_tabela.png)
+
+![Tabela vazia](Figuras/tabela_limpa.png)
+
 ## Como posso salvar os veículos em um arquivo? ou a velocidade do veículo após ter inserido na tabela?
 
 
