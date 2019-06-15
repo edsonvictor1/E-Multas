@@ -63,9 +63,9 @@ Após clicar duas vezes na célula da velocidade, aparecerá uma caixa de mensag
 
 Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
 
-![Alterando a velocidade na tabela](Figuras/alterando_velocidade.png)
+![Alterando a velocidade na tabela](Figuras/alterar_velocidade.png)
 
-![Substituindo a velocidade na tabela](Figuras/alterar_velocidade.png)
+![Substituindo a velocidade na tabela](Figuras/alterando_velocidade.png)
 
 ## Como posso salvar os veículos em um arquivo? ou a velocidade do veículo após ter inserido na tabela?
 
