@@ -75,6 +75,6 @@ Muito simples, basta clicar em "Limpar Tabela" que automaticamente as linhas ser
 
 ![Tabela vazia](Figuras/tabela_limpa.png)
 
-## Como posso salvar os veículos em um arquivo? ou a velocidade do veículo após ter inserido na tabela?
+## Como posso salvar os veículos em um arquivo? E como carregar os veículos a partir de um arquivo já existente?
 
 
