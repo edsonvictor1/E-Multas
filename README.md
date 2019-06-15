@@ -27,4 +27,41 @@ No exemplo acima, como o limite de velocidade definido foi de 100 km/h, a veloci
 
 ### Como ordenar os veículos por placa e por velocidade?
 
-O aplicativo contém dois botões na parte debaixo de sua interface. Basta apenas clicar em uma das opções, "Ordenar por Placa" ou "Ordenar por Velocidade", que imediatamente o programa será exibir os veículos em ordem decrescente baseado no critério selecionado.
+O aplicativo contém dois botões na parte debaixo de sua interface. Basta apenas clicar em uma das opções, "Ordenar por Placa" ou "Ordenar por Velocidade", que imediatamente o programa será exibir os veículos em ordem decrescente baseado no critério selecionado. A primeira imagem mostrará a ordenação dos veículos por ordem alfabética da placa e a segunda imagem mostrará os veículos ordenados pela velocidade.
+
+![Ordenação pela placa](Figuras/ordenar_placa.png)
+
+![Ordenação pela velocidade](Figuras/ordenar_velocidade.png)
+
+## Como vejo as estatísticas?
+
+Basta clicar na aba "Estatísticas" no canto superior esquerdo, ao lado da aba "Dados". O E-multas Statistics exibirá quantos veículos foram multados pelo radar e a soma total das multas.
+
+![Exibindo o funcionamento das estatísticas](Figuras/emultas_statistics.png)
+
+## Como posso editar a placa ou a velocidade do veículo após ter inserido na tabela?
+
+Se você errou algum dado algo inserir na tabela, não se preocupe, o aplicativo permite que você dê duplo clique no alvo a ser editado (placa ou velocidade).
+
+#### Placa
+
+Após clicar duas vezes na célula da placa, aparecerá uma caixa de mensagem perguntando se você deseja alterar a placa.
+
+![Editando a placa na tabela](Figuras/editar_placa.png)
+
+Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
+
+![Alterando a placa na tabela](Figuras/alterando_placa.png)
+
+![Substituindo a placa na tabela](Figuras/alterar_placa.png)
+
+
+#### Velocidade
+
+Após clicar duas vezes na célula da velocidade, aparecerá uma caixa de mensagem perguntando se você deseja alterar a placa.
+
+![Alterando a velocidade na tabela](Figuras/alterar_velocidade.png)
+
+Se você clicar em "Yes", uma caixa de entrada de dados aparecerá e você poderá colocar o nome alterado.
+
+
