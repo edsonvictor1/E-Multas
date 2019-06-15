@@ -21,7 +21,7 @@ Basta digitar a placa correspondente ao veículo, sua respectiva velocidade inst
 
 Feito isso, agora é só clicar no botão "Inserir" para que todos os dados relativos ao veículos sejam exibidos.
 
-![Cadastrando veículo na tabela](Figuras/cadastro_veiculo.png)
+![Cadastrando veículo na tabela](Figuras/veiculo_cadastrado.png)
 
 No exemplo acima, como o limite de velocidade definido foi de 100 km/h, a velocidade do veículo cadastrado ultrapassou o limite, portanto o aplicativo exibe os dados correspondentes a quanto a velocidade excedeu o limite permitido. Desse modo temos, a situação, o grau da infração, o valor da multa, a quantidade de perda de pontos na CNH e se a mesma foi suspensa ou não.
 
